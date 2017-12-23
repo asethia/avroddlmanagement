@@ -9,7 +9,7 @@ import scala.util.{Success, Try}
 /**
   * this is avro Utlility Class
   * provides basic avro related utility code
-  * Created by arun_sethia01 on 23/12/17.
+  * Created by arun_sethia on 23/12/17.
   */
 trait AvroUtil {
 
